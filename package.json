@@ -1,0 +1,11 @@
+{
+  "name": "hh-notifier",
+  "version": "0.0.0",
+  "description": "Tool for searching and notifying about new vacancies from hh.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilyashassen@gmail.com",
+  "license": "ISC"
+}
